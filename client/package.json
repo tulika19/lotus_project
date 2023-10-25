@@ -1,0 +1,22 @@
+{
+  "name": "lotus_project_1",
+  "version": "1.0.1",
+  "description": "case_study_for_data_engineering",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "abc"
+  },
+  "keywords": [
+    "lotus"
+  ],
+  "author": "Tulika",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongodb": "^6.2.0"
+  }
+}
